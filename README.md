@@ -173,7 +173,7 @@ Don't forget to give the project a star! Thanks again!
 </div>
 <br/>
 
-This product uses the TMDB API but is not endorsed or certified by TMDB.
+This product uses the TMDB API but is not endorsed or certified by TMDB at all.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
